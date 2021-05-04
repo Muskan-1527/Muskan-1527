@@ -31,7 +31,7 @@ Whatever I do, I always do with a developer's mindset:
 <br/>
 <br/>
 <br/>
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h3>Languages & Frameworks & Tools & Abilities</h3>
 
 <p align="center">
   <code><img title="C" height="25" src="./images/c.svg"></code>
@@ -52,7 +52,7 @@ Whatever I do, I always do with a developer's mindset:
 <hr>
 <br>
 <br>
-# :star: My Stats
+<h3>:star: My Stats</h3>
 <p align="center"><a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskan-1527&langs_count=4&count_private=true&theme=nord" />
