@@ -18,6 +18,7 @@ Whatever I do, I always do with a developer's mindset:
 
 
 <h2> Let's Connect :coffee:</h2>
+<br/>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/muskan-agrawal-1a5a5a194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -32,19 +33,22 @@ Whatever I do, I always do with a developer's mindset:
 
 <h2>🌱 Have a look at my coding profiles 👇</h2>
 
-<p align="center">
+<p>
       <a href="https://codeforces.com/profile/muskan-1527">
-	  <img align="left" alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
+	  <img alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
       </a>
       <a href="https://www.hackerrank.com/agrawalm883">
-          <img align="left" alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
+          <img alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
       </a>
 </p>
+<br/>
+<br/>
 <br/>
 <br/>
 
 
 <h2>Languages & Frameworks & Tools & Abilities</h2>
+<br/>
 
 <p align="center">
   <code><img title="C" height="25" src="./images/c.svg"></code>
@@ -65,6 +69,7 @@ Whatever I do, I always do with a developer's mindset:
 
 
 <h2>:star: My Stats</h2>
+<br/>
 
 <p align="center"><a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
@@ -78,6 +83,7 @@ Whatever I do, I always do with a developer's mindset:
  
  
 <h2>👯 Visitor's count :eyes:</h2>
+<br/>
 
 <p><img src="https://profile-counter.glitch.me/{Muskan-1527}/count.svg" alt="Muskan's :: Visitor's Count" /></p>
 <br/>
