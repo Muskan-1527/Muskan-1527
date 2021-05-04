@@ -13,7 +13,6 @@ Whatever I do, I always do with a developer's mindset:
 2. 🛠️ Break the problem down into as many parts as is feasible
 3. ✅ Solve each one by one
 <br/>
-<br/>
 <h3> Let's Connect :coffee:</h3>
 <p align="center">
 	<a href="https://github.com/Muskan-1527"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -21,7 +20,6 @@ Whatever I do, I always do with a developer's mindset:
 	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/muskan_1527/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
-<br>
 <br>
 <h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://codeforces.com/profile/muskan-1527">
@@ -32,6 +30,8 @@ Whatever I do, I always do with a developer's mindset:
 </a>
 <br/>
 <br/>
+<br>
+<br>
 # :star: My Stats
 <p align="center"><a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
