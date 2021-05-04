@@ -48,4 +48,5 @@ Whatever I do, I always do with a developer's mindset:
 
 <br/>
 <br/>
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hey!%20I%20am%20Muskan%20Agrawal&fontSize=40)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=&fontSize=40)
