@@ -32,6 +32,16 @@ Whatever I do, I always do with a developer's mindset:
 </a>
 <br/>
 <br/>
+# :star: My Stats
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskan-1527&langs_count=4&count_private=true&theme=nord" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muskan-1527&margin-w=28&margin-h=15&theme=nord" />
+</p></a></p>
+  
+<br><br><br><br>
 <h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/{Muskan-1527}/count.svg" alt="Muskan's :: Visitor's Count" /></p>
