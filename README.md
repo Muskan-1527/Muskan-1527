@@ -1,27 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hey!%20I%20am%20Muskan%20Agrawal&fontSize=40)
 <br>
 <br>
-## About me 
+
+
+<h2>About me :raising_hand_woman:</h2>
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling
 - 🔭 I’m a Full Stack Developer.
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/muskan-agrawal-1a5a5a194" target="_blank">LinkedIn</a>
-<br>
-Whatever I do, I always do with a developer's mindset:
 
+Whatever I do, I always do with a developer's mindset:
 1. 🔍 Analyze the problem
 2. 🛠️ Break the problem down into as many parts as is feasible
 3. ✅ Solve each one by one
 <br/>
-<h3> Let's Connect :coffee:</h3>
+<br/>
+
+
+<h2> Let's Connect :coffee:</h2>
+
 <p align="center">
-	<a href="https://github.com/Muskan-1527"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muskan-agrawal-1a5a5a194/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://github.com/Muskan-1527"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/muskan_1527/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:agrawalmuskan0618@gmail.com@gmail.com"> <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt = "Gmail" /></a>
+	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 </p>
-<br>
-<h3>🌱 Have a look at my coding profiles 👇</h3>
+<br/> 
+<br/>
+
+
+<h2>🌱 Have a look at my coding profiles 👇</h2>
+
 <p align="center">
       <a href="https://codeforces.com/profile/muskan-1527">
 	  <img align="left" alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
@@ -32,8 +42,9 @@ Whatever I do, I always do with a developer's mindset:
 </p>
 <br/>
 <br/>
-<br/>
-<h3>Languages & Frameworks & Tools & Abilities</h3>
+
+
+<h2>Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
   <code><img title="C" height="25" src="./images/c.svg"></code>
@@ -48,25 +59,28 @@ Whatever I do, I always do with a developer's mindset:
   <code><img title="Visual Studio Code" height="25" src="./images/vscode.png"></code>
   <code><img title="JQuery" height="25" src="./images/jquery-original.svg"></code>
   <code><img title="GitHub" height="25" src="./images/github.svg"></code>
-
 </p>
+<br>
+<br>
 
-<br>
-<br>
-<h3>:star: My Stats</h3>
+
+<h2>:star: My Stats</h2>
+
 <p align="center"><a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Muskan-1527&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muskan-1527&langs_count=4&count_private=true&theme=nord" />
 </a></p>
 <p align="center"><a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=Muskan-1527&margin-w=28&margin-h=15&theme=nord" />
-</p></a></p>
-  
-<br><br><br><br>
+</a></p>
+ <br>
+ <br>
+ 
+ 
 <h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/{Muskan-1527}/count.svg" alt="Muskan's :: Visitor's Count" /></p>
-
+<br/>
 <br/>
 <br/>
 
