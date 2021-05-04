@@ -23,10 +23,10 @@ Whatever I do, I always do with a developer's mindset:
 <br>
 <h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://codeforces.com/profile/muskan-1527">
-	<img align="left" alt="Codeforces" width="64px" height="42px" src="https://play.google.com/store/apps/details?id=com.codeforcesvisualizer&hl=mk&gl=US" />
+	<img align="left" alt="Codeforces" width="64px" height="42px" src="./svgs/codeforces.svg" />
 </a>
 <a href="https://www.hackerrank.com/agrawalm883">
-  <img align="left" alt="Hackerrank" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fhacker-photo-logo-hackerrank-wheres-weed-java-portable-network-graphics-png%2F5DCJ76ct&psig=AOvVaw11CbF0h-dO5P4-IAq-CZKQ&ust=1620207576972000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNikwtzdr_ACFQAAAAAdAAAAABAD" />
+  <img align="left" alt="Hackerrank" width="32px" src="./svgs/hackerrank.svg" />
 </a>
 <br/>
 <br/>
